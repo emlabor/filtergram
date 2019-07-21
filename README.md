@@ -1,5 +1,5 @@
 # Filtergram
 Starter code by @DianaGWC. 
-### extras
+### Extras
 - [ ] add more filters
 - [ ] web GUI
